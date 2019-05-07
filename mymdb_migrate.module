@@ -1,0 +1,9 @@
+<?php
+/**
+ * @file
+ * Contains mymdb_migrate.module.
+ */
+
+// Notice this file is empty. That is because we use no Drupal 8 hooks to
+// achieve our desired functionality!
+// Essentially this mymdb_migrate.module file doesn't even need to be here.
