@@ -19,3 +19,5 @@ Migrations are essentially defined in three phases:
 3) Destination: Starting at line 139, the processed data is stored according to the specifications set here.
    In this case, the plugin used is "entity:node" which means migration will create nodes (i.e. content entities) of type 'movie'
    as defined on lines 75, 76, 77 of the Process phase.
+
+I have copied this repository from https://github.com/dreambubbler/mymdb_migrate in hopes of creating my own custom migration module. Instead of movies I will be creating resources. 
